@@ -1,5 +1,9 @@
 # Weather
-This weather forecast site uses weather OpenWeatherMap.org API to get weather data for cities worldwide. By entering the name of the location, users get the current weather data in Fahrenheit or Celsius.
+This weather forecast site uses weather OpenWeatherMap.org API to get weather data for cities worldwide. By entering the name of the location, users get the current weather data.
+
+Temperature is displayed in Celsius by default, but it can be changed to Fahrenheit (and back) by clicking on F/C letters next to the current temperature.
+
+The design is basic and responsive. There are different backgrounds for some weather conditions.
 
 ## [Live link](https://1v4n4.github.io/weather-app/)
 
