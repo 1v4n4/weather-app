@@ -21,6 +21,11 @@ This weather forecast site uses weather OpenWeatherMap.org API to get weather da
   Run `npm run` build in  Terminal to build the assets using webpack.
   Run `npm run` start in Terminal to start the server and look at the result in localhost:8080.
 
+## Getting API key
+
+  An API key is necessary for using OpenWeatherMap data that can be obtained at the Open Weather's website, after registration. That key must be added at the end of an URL request for fetching API's data. Basic data packages are free. More information can be found here `https://openweathermap.org/current`.
+  However, this app has API key build in, and it can be used without any credentials.
+
 ## Author
 **Ivana Novaković-Leković**
 
