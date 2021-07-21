@@ -5,6 +5,8 @@ Temperature is displayed in Celsius by default, but it can be changed to Fahrenh
 
 The design is basic and responsive. There are different backgrounds for some weather conditions.
 
+![screenshot](https://user-images.githubusercontent.com/65791349/126516623-941962ad-a6e3-4b00-9232-af31dde1f71e.png)
+
 ## [Live link](https://1v4n4.github.io/weather-app/)
 
 ## Built With
