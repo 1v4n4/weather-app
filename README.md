@@ -22,8 +22,8 @@ The design is basic and responsive. There are different backgrounds for some wea
 
 ## Usage
 
-  Run `npm run` build in  Terminal to build the assets using webpack.
-  Run `npm run` start in Terminal to start the server and look at the result in localhost:8080.
+  Run `npm run build` in  Terminal to build the assets using webpack.
+  Run `npm run start` in Terminal to start the server and look at the result in localhost:8080.
 
 ## Getting API key
 
